@@ -1,1 +1,3 @@
 kernel//home/djroy/youtube_stuff/device_driver/ex01_simple_module.ko
+kernel//home/djroy/youtube_stuff/device_driver/ex02_simple_module_init.ko
+kernel//home/djroy/youtube_stuff/device_driver/ex03_simple_module_exit.ko

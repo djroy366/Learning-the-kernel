@@ -1,0 +1,1 @@
+cmd_/home/djroy/youtube_stuff/device_driver/ex02_simple_module_init.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/djroy/youtube_stuff/device_driver/ex02_simple_module_init.ko /home/djroy/youtube_stuff/device_driver/ex02_simple_module_init.o /home/djroy/youtube_stuff/device_driver/ex02_simple_module_init.mod.o ;  true
