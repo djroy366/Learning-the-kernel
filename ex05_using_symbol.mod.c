@@ -22,7 +22,7 @@ MODULE_INFO(retpoline, "Y");
 static const char __module_depends[]
 __used
 __attribute__((section(".modinfo"))) =
-"depends=";
+"depends=ex05_exporting_symbol";
 
 
-MODULE_INFO(srcversion, "A5F338C4F173DD5EB910457");
+MODULE_INFO(srcversion, "288D5AA46D990F357985EA1");
